@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mochify.github.io/sitemap.xml 
