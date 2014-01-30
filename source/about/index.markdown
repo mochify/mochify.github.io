@@ -14,12 +14,16 @@ Mochify is a collective of developers who love to explore and experiment. We're 
 
 * [William Lee](https://github.com/birryree) - Bitter Architect, The Clojure Guy
 * [Alex Kuang](https://github.com/alexkuang) - Salty Software Engineer, The Scala Guy
-* [Himekat](https://github.com/himekat) - Sweet SQL Princess, Whip Cracker
+* [Himekat](https://github.com/himekat) - Sweet Database Princess, The SQL Girl
 
 ## Guest Team Members
 
-* [fillibuster](https://github.com/fillibuster) - Hilariously appropriate name for how he approaches project work.
+* [fillibuster](https://github.com/fillibuster) - Hilariously appropriate name for how he approaches project work. The lazy guy.
 
 # The Projects 
 
 * [Hiroba, a Foursquare client for Clojure](https://github.com/mochify/hiroba)
+
+# The Status
+
+* [Mochify Productivity Status](http://www.ismochifydoingwork.info) - Analysis of just how productive the team is being.
